@@ -1071,6 +1071,12 @@
         },
         {
             "manufacturer": "TuYa",
+            "model": "Temperature and humidity sensor (TH02Z)",
+            "battery_type": "AAA",
+            "battery_quantity": 2
+        },
+        {
+            "manufacturer": "TuYa",
             "model": "Temperature and humidity sensor (ZTH05)",
             "battery_type": "CR2032"
         },
